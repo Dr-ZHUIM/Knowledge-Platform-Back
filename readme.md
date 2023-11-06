@@ -1,2 +1,2 @@
-# demo for dexie
+# Management System of My knowledge-Platform
 
